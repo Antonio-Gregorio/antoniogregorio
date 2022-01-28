@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfdc707f.css",
-    "main.js": "/static/js/main.2e12a501.js",
+    "main.css": "/static/css/main.ebb4314f.css",
+    "main.js": "/static/js/main.79456140.js",
     "static/media/middle-bg.png": "/static/media/middle-bg.ef7a6e404490035eae98.png",
     "static/media/MinhaFoto.png": "/static/media/MinhaFoto.3f4491df6791ddb7a69b.png",
     "static/media/moldura-img.jpg": "/static/media/moldura-img.972d1628868034c9825e.jpg",
@@ -10,13 +10,13 @@
     "static/media/Diego.jpg": "/static/media/Diego.943dd9f0c070be6866f0.jpg",
     "static/media/Diogenes.jpg": "/static/media/Diogenes.7509fa642dc65aab2add.jpg",
     "index.html": "/index.html",
+    "static/media/pattern.svg": "/static/media/pattern.57c478d038e85370c2d44742bb855f01.svg",
     "static/media/pattern2.svg": "/static/media/pattern2.cdd04c40e5f174ae86a1bb3382c74c6b.svg",
-    "static/media/pattern.svg": "/static/media/pattern.f857b116d61592cd1bc58e93dd2fe753.svg",
-    "main.dfdc707f.css.map": "/static/css/main.dfdc707f.css.map",
-    "main.2e12a501.js.map": "/static/js/main.2e12a501.js.map"
+    "main.ebb4314f.css.map": "/static/css/main.ebb4314f.css.map",
+    "main.79456140.js.map": "/static/js/main.79456140.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfdc707f.css",
-    "static/js/main.2e12a501.js"
+    "static/css/main.ebb4314f.css",
+    "static/js/main.79456140.js"
   ]
 }
